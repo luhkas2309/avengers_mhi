@@ -89,6 +89,18 @@ while True:
 
 		if cores == 'grg': dir = 'put'
 		if cores == 'rgr': dir = 'call'
+
+			# AJUSTE VERSAO 1.0.1 - ADICIONANDO NOVAS POSSIBILIDADE
+		if cores == 'rrg': dir = 'call'
+		if cores == 'rgg': dir = 'put'
+		if cores == 'ggr': dir = 'put'
+		if cores == 'grr': dir = 'call'
+		
+
+
+
+
+
     # if cores.count('g') > cores.count('r') and cores.count('d') == 0 : dir = 'put'
     # if cores.count('r') > cores.count('g') and cores.count('d') == 0 : dir = 'call'
 		if dir:
