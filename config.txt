@@ -1,8 +1,8 @@
 #Ao utilizar varias moedas os calculos de gale, sorosgale e soros serao feitos individualmente para cada moeda 
 
 [GERAL]
-login = sindel.plima@hotmail.com
-senha = Ls230911
+login = ?
+senha = ?
 #REAL  |  PRACTICE  |  TOURNAMENT
 conta = PRACTICE
 
